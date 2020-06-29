@@ -10,6 +10,11 @@ namespace Play20200629
     {
         static void Main(string[] args)
         {
+            Pasisveikinti();
+        }
+
+        public static void Pasisveikinti()
+        {
             Console.WriteLine("Hello World");
         }
     }
