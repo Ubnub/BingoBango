@@ -10,10 +10,10 @@ namespace Play20200629
     {
         static void Main(string[] args)
         {
-            Pasisveikinti();
+            Pasisveikinimas();
         }
 
-        public static void Pasisveikinti()
+        public static void Pasisveikinimas()
         {
             Console.WriteLine("Hello World");
         }
